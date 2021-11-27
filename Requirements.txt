@@ -1,0 +1,13 @@
+pip install requests
+pip install colorama
+pip install threading
+pip install os
+
+Errors:
+If threading doesn't install it means it has already been installed while downloading python (as a default module)
+If os doesn't install it means it has already been installed while downloading python (as a default module)
+
+HELP!
+--> https://discord.gg/MwQCUE4xTB <--
+
+Ish#9969
